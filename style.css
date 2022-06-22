@@ -1,0 +1,154 @@
+body{
+    text-align: center;
+    margin: 0px auto;
+    font-family: Arial;
+}
+
+.color-blue {
+    background-color:#afddfb;
+    padding-bottom: 10px;
+}
+
+.caixa-1{
+    margin-top:15px;
+    margin-bottom:25px;
+    text-align: center;
+   
+}
+
+.imagem-logo{
+  width: 150px;
+  
+}
+
+.caixa-1 a{
+    font-size:18px;
+    color:#1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+    
+}
+
+.caixa-2{
+    margin-top:50px;
+    padding-top:0;
+}
+
+span{
+    font-weight: bold;
+}
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color:#1c81c0;
+    margin-top:0;
+    font-weight: normal;
+}
+
+.caixa-3 img, .caixa-5 img {
+    width: 450px;
+    margin-bottom: 25px;
+    margin:0 auto;
+}
+
+.caixa-3 p, .caixa-5 p{
+    width: 700px;
+    margin:10px auto;
+    margin-bottom: 40px;
+    text-align:justify;
+    
+}
+
+.texto-azul{
+    color:#1d80c1
+}
+
+.caixa-4, .caixa-6{
+    background-color:#1c81c0;
+    padding:25px 0;
+}
+
+.caixa-4 h2, .caixa-6 h2{
+    color:#ffffff;
+    font-size: 28px;
+    line-height:42px;
+    font-weight: bold;
+}
+.caixa-4 p{
+    color:#ffffff;
+    line-height:42px;
+    font-size:22px;
+    width:700px;
+    text-align:center;
+    margin:0 auto;
+}
+
+.caixa-4 .texto-amarelo, .caixa-6 .texto-amarelo{
+    color:#fff81b;
+    
+}
+
+.caixa-4 ul{
+    margin:40px auto;
+    width:135px;
+}
+
+.caixa-4 li{
+    color:#ffffff;
+    line-height:42px;
+    text-align: left;
+    font-size:22px;
+}
+
+.caixa-5 h2{
+    color:#1c81c0;
+    margin-top:0;
+    font-weight: bold;
+}
+.caixa-5{
+    padding:25px 0;
+}
+
+.caixa-6 p{
+    color:#ffffff;
+    background-color:#1d1d1d;
+    padding:15px;
+    margin:30px;
+}
+
+.caixa-6 ul{
+    margin: 40px auto;
+    list-style: none;
+    width: 210px;
+    
+}
+
+.caixa-6 .l1, .caixa-6 .l2, .caixa-6 .l3{
+    margin-top:15px; 
+    text-align:center;
+    font-size: 18px;
+    background-color:#ffffff;
+    color:#1d80c1;
+    padding:2px auto;
+    border-radius:5px;
+}
+
+.caixa-6 .l2 {
+    width:170px;
+    margin-left:20px
+}
+
+.caixa-6 .l3 {
+    width:140px;
+    margin-left:35px
+}
+
+iframe{
+    width: 900px;
+    height:500px;
+}
